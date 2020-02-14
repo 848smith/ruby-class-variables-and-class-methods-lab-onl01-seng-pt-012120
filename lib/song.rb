@@ -25,4 +25,12 @@ class Song
   def artists
     @@artists.unique
   end
+  
+  def genre_count
+    
+  end
+  
+  def artist_count
+    
+  end
 end
