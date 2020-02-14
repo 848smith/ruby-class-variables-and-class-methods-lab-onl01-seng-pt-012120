@@ -31,6 +31,6 @@ class Song
   end
   
   def self.artist_count
-    
+    "{"Brittany Spears"=>1
   end
 end
